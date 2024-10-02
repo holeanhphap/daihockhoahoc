@@ -1,9 +1,0 @@
-@media (max-width: 600px) {
-    header, footer {
-        font-size: 14px; /* Kích thước chữ nhỏ hơn trên thiết bị di động */
-    }
-
-    .content {
-        padding: 10px; /* Giảm padding trên màn hình nhỏ */
-    }
-}
