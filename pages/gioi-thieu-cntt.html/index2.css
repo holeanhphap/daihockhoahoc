@@ -12,3 +12,6 @@
   max-width: 210px; /* Điều chỉnh chiều rộng hình ảnh */
   height: auto; /* Tự động điều chỉnh chiều cao */
 }
+table {
+  width: 690px;
+}
