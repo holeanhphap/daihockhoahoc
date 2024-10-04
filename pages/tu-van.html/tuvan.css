@@ -3,8 +3,6 @@
         max-width: 680px;
         margin: 0 auto;
     }
-body {
-    font-family: Arial, Helvetica, sans-serif;
 }
 fieldset {
     display: inline-block;
@@ -24,4 +22,7 @@ table {
 }
 h2 {
     color: rgb(0, 110, 255);
+}
+ul {
+    font-family: Arial, Helvetica, sans-serif;
 }
