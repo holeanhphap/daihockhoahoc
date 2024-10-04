@@ -1,5 +1,5 @@
 @media screen and (min-width: 10px) {
-    .container {
+    body {
         max-width: 680px;
         margin: 0 auto;
     }
@@ -20,4 +20,8 @@ table {
 }
 .subject {
     width: 75%;
+    background: rgb(240, 239, 239);
+}
+h2 {
+    color: rgb(0, 110, 255);
 }

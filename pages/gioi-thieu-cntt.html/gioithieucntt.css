@@ -6,7 +6,7 @@ body {
     color: rgb(0, 110, 255);
 }
 @media screen and (min-width: 10px) {
-    table {
+    body {
         max-width: 680px;
         margin: 0 auto;
     }
