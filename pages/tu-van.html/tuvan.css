@@ -1,0 +1,23 @@
+@media screen and (min-width: 10px) {
+    .container {
+        max-width: 680px;
+        margin: 0 auto;
+    }
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+fieldset {
+    display: inline-block;
+}   
+table {
+    min-width: 100%;
+}
+.table-right {
+    width: 67%;
+}
+.input {
+    width: 75%;
+}
+.subject {
+    width: 75%;
+}
